@@ -41,7 +41,7 @@ Implementation of "Deep Reinforcement Learning-Based Algorithm for Maximizing th
 
 - **pre-data/process_foursquare.ipynb**: Jupyter notebook for preprocessing the Foursquare location-based social network dataset
 - **pre-data/process_foursquare.py**: Script for preprocessing the Foursquare location-based social network dataset
-- **compute_foursquare_ps.py** & **compute_foursquare_new_ps.py**: Scripts for computing network properties and features
+- **compute_foursquare_ps.py** & **compute_foursquare_new_ps.py**: Scripts for computing comprehensive relevance
 
 ## Usage
 
